@@ -1,5 +1,6 @@
 # Composite-Material
 The project will create a new paper-based composite to replace the shipping shock-proof packaging. 
+
 Manufacturing a composite
 
 ![photo_2022-12-23_20-01-44](https://user-images.githubusercontent.com/114690482/209399730-8925a241-f00b-4328-b382-362a3c134625.jpg)
